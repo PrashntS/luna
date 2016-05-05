@@ -1,0 +1,8 @@
+language: node_js
+script:
+  - npm build
+notifications:
+  email:
+    recipients: prashant@ducic.ac.in
+    on_success: change
+    on_failure: change
