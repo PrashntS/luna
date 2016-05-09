@@ -1,7 +1,7 @@
 /* TEAM */
   Developer: Prashant Sinha
   GitHub: @prashnts
-  Website: https://luna.0xc0d3.pw
+  Website: https://luna.noop.pw
   Source: https://github.com/prashnts/luna
   From: New Delhi, India
 
